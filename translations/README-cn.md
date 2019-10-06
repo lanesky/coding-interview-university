@@ -160,17 +160,17 @@
 ## 关于 Google
 
 - [ ] 面向学生 —— [Google 的职业生涯：技术开发指导](https://www.google.com/about/careers/students/guide-to-technical-development.html)
-- [ ] Google 检索的原理：
+- [x] Google 检索的原理：
     - [x] [Google 检索的发展史（视频）](https://www.youtube.com/watch?v=mTBShTwCnD4)
     - [x] [Google 检索的原理 —— 故事篇](https://www.google.com/insidesearch/howsearchworks/thestory/)
     - [x] [Google 检索的原理](https://www.google.com/insidesearch/howsearchworks/)
     - [x] [Google 检索的原理 —— Matt Cutts（视频）](https://www.youtube.com/watch?v=BNHR6IQJGZs)
     - [x] [Google 是如何改善其检索算法（视频）](https://www.youtube.com/watch?v=J5RZOU6vK4Q)
-- [ ] 系列文章：
-    - [ ] [Google 检索是如何处理移动设备](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
-    - [ ] [Google 为了寻找大众需求的秘密研究](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
-    - [ ] [Google 检索将成为你的下一个大脑](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
-    - [ ] [Demis Hassabis 的心灵直白](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
+- [x] 系列文章：
+    - [x] [Google 检索是如何处理移动设备](https://backchannel.com/how-google-search-dealt-with-mobile-33bc09852dc9)
+    - [x] [Google 为了寻找大众需求的秘密研究](https://backchannel.com/googles-secret-study-to-find-out-our-needs-eba8700263bf)
+    - [x] [Google 检索将成为你的下一个大脑](https://backchannel.com/google-search-will-be-your-next-brain-5207c26e4523)
+    - [x] [Demis Hassabis 的心灵直白](https://backchannel.com/the-deep-mind-of-demis-hassabis-156112890d8a)
 - [ ] [书籍：Google 公司是如何运作的](https://www.amazon.com/How-Google-Works-Eric-Schmidt/dp/1455582344)
 - [ ] [由 Google 通告所制作 —— 2016年10月（视频）](https://www.youtube.com/watch?v=q4y0KOeXViI)
 
@@ -183,7 +183,7 @@
 ## 面试过程 & 通用的面试准备
 
 - [ ] 视频：
-    - [ ] [如何在 Google 工作 —— 考生指导课程（视频）](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
+    - [x] [如何在 Google 工作 —— 考生指导课程（视频）](https://www.youtube.com/watch?v=oWbUtlUhwa8&feature=youtu.be)
     - [ ] [Google 招聘者所分享的技术面试小窍门（视频）](https://www.youtube.com/watch?v=qc1owf2-220&feature=youtu.be)
     - [ ] [如何在 Google 工作：技术型简历的准备（视频）](https://www.youtube.com/watch?v=8npJLXkcmu8)
 
